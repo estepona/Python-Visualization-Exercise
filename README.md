@@ -1,7 +1,7 @@
 ## Python Visualization Exercise
 
 ### Updates
-- 3.10.17 2/8
+- 3.10.17 2/8 complete
 
 This is my exercises on Pandas and visualization tools of Python.
 
