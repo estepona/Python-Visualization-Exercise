@@ -1,3 +1,5 @@
+## Python Visualization Exercise
+
 This is my exercises on Pandas and visualization tools of Python.
 
 The initial plan is to play with eight data sets, east to complex.
