@@ -3,4 +3,8 @@ dataset obtained from Kaggle: https://www.kaggle.com/sovannt/world-bank-youth-un
 
 credit: https://www.kaggle.com/arthurtok/d/sovannt/world-bank-youth-unemployment/generation-unemployed-interactive-plotly-visuals/notebook
 
-The purpose of this exercise is to reproduce the beautifully created notebook by Anisotropic, and hopefully create my own fun visualizations. 
+The purpose of this exercise is to simply reproduce the beautifully created notebook by Anisotropic.
+
+After the reproduction, I realized that Plotly is like a new subject to learn... Very interactive, but difficult to learn.
+
+Plus, the offline results cannot be displayed here. 
