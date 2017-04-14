@@ -1,6 +1,7 @@
 ## Python Visualization Exercise
 
 ### Updates
+- 4/13/17 5/8 start
 - 4/6/17 4/8 (reproduction) completed
 - 4/2/17 starting 4th exericse
 - 3/25/17 3/8 completed
@@ -11,6 +12,7 @@
 - 2 Million Songs
 - 3 Human Resources Analytics
 - 4 Generation Unemployed_Plotly
+- 5 VirgooTeam Videos Analysis
 
 This is my exercises on Pandas and visualization tools of Python.
 
