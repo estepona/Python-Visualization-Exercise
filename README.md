@@ -1,12 +1,12 @@
 ## Python Visualization Exercise
 
 ### Updates
-- 4/17/17 &nbsp;5/8 completed
-- 4/13/17 &nbsp;5/8 start
-- 4/6/17 &nbsp;&nbsp;&nbsp;4/8 (reproduction) completed
-- 4/2/17 &nbsp;&nbsp;&nbsp;4/8 start
-- 3/25/17 &nbsp;3/8 completed
-- 3/10/17 &nbsp;2/8 completed
+- 04/17/17 5/8 completed
+- 04/13/17 5/8 start
+- 04/06/17 4/8 (reproduction) completed
+- 04/02/17 4/8 start
+- 03/25/17 3/8 completed
+- 03/10/17 2/8 completed
 
 ### Structure
 - 1 Obama Website AB test
