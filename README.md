@@ -1,4 +1,4 @@
-## Python Visualization 
+## Visualization with Python  
 
 ### Updates
 - 04/17/17 5/8 completed
