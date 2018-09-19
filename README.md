@@ -1,12 +1,13 @@
-## Visualization with Python  
+## py-visualization
+Visualizations using Python, primarily with `matplotlib` and `seaborn`, also tried `plot.ly` but I don't like their business model.
 
 ### Updates
-- 04/17/17 5/8 completed
-- 04/13/17 5/8 start
-- 04/06/17 4/8 (reproduction) completed
-- 04/02/17 4/8 start
-- 03/25/17 3/8 completed
-- 03/10/17 2/8 completed
+- 2017.04.17 5/8 completed
+- 2017.04.13 5/8 start
+- 2017.04.06 4/8 (reproduction) completed
+- 2017.04.02 4/8 start
+- 2017.03.25 3/8 completed
+- 2017.03.10 2/8 completed. my birthday
 
 ### Structure
 - 1 Obama Website AB test
